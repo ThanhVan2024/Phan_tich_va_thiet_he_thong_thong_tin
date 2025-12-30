@@ -1,8 +1,8 @@
-# Phan_tich_va_thiet_he_thong_thong_tin
+# Phân tích và thiết kế hệ thống QUẢN LÝ SIÊU THỊ
 Ngày nay khoa học kỹ thuật phát triển nhanh chóng, lao động trí óc dần thay thế cho lao động chân tay bằng những ứng dụng khoa học kỹ thuật. Và góp phần đắc lực trong cuộc cách mạng khoa học này phải kể đến lĩnh vực công nghệ thông tin Công nghệ thông tin được ứng dụng trong nhiều lĩnh vực. Như chúng ta đã biết, việc quản lý siêu thị của rất nhiều công ty, doanh nghiệp nói chung và siêu thị mini nói riêng vẫn tiến hành rất thủ công, việc ghi chép thông qua sổ sách gặp rất nhiều trở ngại, gần khó khăn cho người quản lý khi muốn xem xét tình trạng các mặt hàng còn hay hết, nguồn hàng đến từ đâu cũng như việc xuất kho hàng như thế nào, tình trạng bán hàng ra sao. Từ thực tế như vậy mà nhóm chúng em đã tiến hành xây dựng một phần mềm quản lý siêu thị cho một siêu thị.
 Phần mềm là một chương trình cho phép người sử dụng thực hiện một cách nhanh chóng, chính xác việc nhập dữ liệu, lưu trữ cập nhật thông tin cho các loại sản phẩm, thực hiện yêu cầu tìm kiếm thông tin thống kê bán hàng hay báo cáo tài chính của siêu thị, với giao diện làm việc thân thiện dễ sử dụng. 
 Mong rằng với phần mềm này chúng em có thể đóng góp được một phần nào đó vào sự phát triển của các siêu thị.
-* Mô tả bài toán *
+* Mô tả bài toán như sau
 ## Đặc tả yêu cầu của khách hàng
 - Quản lý bán hàng
 - Quản lý chương trình khuyến mãi
